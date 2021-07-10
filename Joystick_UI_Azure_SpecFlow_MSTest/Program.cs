@@ -6,7 +6,8 @@ namespace Joystick_UI_Azure_SpecFlow_MSTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("GitFlow Setup");
+
         }
     }
 }
